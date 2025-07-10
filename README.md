@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![Anh's GitHub stats](https://github-stats-sigma-six.vercel.app/api?username=anh4dle&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
+![Anh's GitHub stats](https://github-stats-two-teal.vercel.app/api?username=anh4dle&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 
-<img src="https://github-stats-sigma-six.vercel.app/api/top-langs?username=anh4dle&count_private=true&include_all_commits=true&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+<img src="https://github-stats-two-teal.vercel.app/api/top-langs?username=anh4dle&count_private=true&include_all_commits=true&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 <!--
 **anh4dle/anh4dle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
