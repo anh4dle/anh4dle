@@ -2,7 +2,7 @@
 
 ![Anh's GitHub stats](https://github-stats-sigma-six.vercel.app/api?username=anh4dle&show_icons=true&theme=tokyonight)
 
-<img src="github-stats-sigma-six.vercel.app/api/top-langs?username=anh4dle&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-stats-sigma-six.vercel.app/api/top-langs?username=anh4dle&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 <!--
 **anh4dle/anh4dle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
