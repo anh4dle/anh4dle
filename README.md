@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://githubs-seven.vercel.app/api/top-langs?username=anh4dle&count_private=true&include_all_commits=true&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+[![Anh's GitHub stats](https://github-stats-extended.vercel.app/api?username=anh4dle)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **anh4dle/anh4dle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
